@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.salesforce.runner.LoginRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 96.066 sec - in com.salesforce.runner.LoginRunner
